@@ -1,0 +1,28 @@
+{
+  "name": "culture",
+  "version": "0.0.0",
+  "description": "Distributed application framework",
+  "main": "lib/main.js",
+  "author": "Christopher Rogers <chrissrogers@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrissrogers/culture.git"
+  },
+  "keywords": [
+    "distributed",
+    "zeromq",
+    "cluster",
+    "message",
+    "queue"
+  ],
+  "bugs": {
+    "url": "https://github.com/chrissrogers/culture/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
