@@ -12,6 +12,13 @@
     "type": "git",
     "url": "https://github.com/chrissrogers/culture.git"
   },
+  "dependencies": {
+    "lodash": "1.x",
+    "q":      "~0.8"
+  },
+  "devDependencies": {
+    "should": "1.x"
+  },
   "keywords": [
     "distributed",
     "zeromq",
