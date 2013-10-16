@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "lodash": "1.x",
-    "q":      "~0.8"
+    "q":      "~0.8",
+    "string": "1.x"
   },
   "devDependencies": {
     "should": "1.x"
